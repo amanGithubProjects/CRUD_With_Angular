@@ -1,0 +1,13 @@
+.row{
+    display: flex;
+    padding: 5px;
+    gap: 12px;
+
+    mat-form-field{
+        width: 99%;
+    }
+}
+
+.actionBtn{
+    justify-content: space-around;
+}

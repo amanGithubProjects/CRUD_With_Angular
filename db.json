@@ -1,0 +1,91 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employee": [
+    {
+      "id": "b7b8",
+      "firstName": "aa",
+      "lastName": "aa",
+      "email": "t",
+      "dob": "",
+      "gender": "",
+      "company": "",
+      "education": "",
+      "experience": "",
+      "package": ""
+    },
+    {
+      "id": "79ed",
+      "firstName": "qqqq",
+      "lastName": "",
+      "email": "",
+      "dob": "",
+      "gender": "",
+      "company": "",
+      "education": "",
+      "experience": "",
+      "package": ""
+    },
+    {
+      "firstName": "sddddd",
+      "lastName": "",
+      "email": "",
+      "dob": "",
+      "gender": "",
+      "company": "",
+      "education": "",
+      "experience": "",
+      "package": "",
+      "id": "9e85"
+    },
+    {
+      "firstName": "ss",
+      "lastName": "",
+      "email": "",
+      "dob": "",
+      "gender": "",
+      "company": "",
+      "education": "",
+      "experience": "",
+      "package": "",
+      "id": "37f6"
+    },
+    {
+      "firstName": "hhhppppp",
+      "lastName": "",
+      "email": "",
+      "dob": "",
+      "gender": "",
+      "company": "",
+      "education": "",
+      "experience": "",
+      "package": "",
+      "id": "5cd6"
+    }
+  ]
+}
